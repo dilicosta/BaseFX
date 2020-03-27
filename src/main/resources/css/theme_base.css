@@ -1,0 +1,160 @@
+.button-lixeira {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/trash-icon.png");
+    -fx-background-repeat: no-repeat;
+}
+
+.button-excluir {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/remove-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-adicionar {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/add-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-editar {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/edit-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-cancelar-editar {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/edit-cancel-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-pesquisar {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/search-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+.button-pesquisar_24 {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/search-icon-24.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-fechar {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/close-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-novo {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/new-file-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-trocar {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/arrows-replace-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-ok {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/ok-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-falha {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/not-ok-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-duvida {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/question-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-print {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/print-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-view{
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-background-image: url("../icone/eye-icon.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.label-leitura {
+    -fx-background-color: white;
+    -fx-border-color: darkgrey;
+    -fx-padding:5px;
+}
+
+.table-column-centro {
+    -fx-alignment: CENTER;
+}
+
+.table-column-esquerdo {
+    -fx-alignment: CENTER-LEFT;
+}
+
+.table-column-direito {
+    -fx-alignment: CENTER-RIGHT;
+}
+
+.tooltip-validacao {
+    -fx-background-color: linear-gradient(#FF6B6B , #FFA6A6 );
+    -fx-font-weight: bold;
+}
+
+.campo-obrigatorio {
+    -fx-border-color: #FF0000;
+}
+
+.texto-vermelho {
+    -fx-text-fill: #FF0000;
+}
+
+.texto-azul{
+    -fx-text-fill: #0000FF;
+}
+
+.texto-verde{
+    -fx-text-fill: #238E23;
+}
+
+.texto-negrito{
+    -fx-font-weight: bold;
+}
